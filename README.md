@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Jeff.  I am an MBA student learning Python.
+My name is Jeff.  I am an MBA student trying to teach myself Python.
 
 <!--
 **jeff-shake-it/jeff-shake-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
